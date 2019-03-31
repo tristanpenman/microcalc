@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo contains material prepared for a talk delivered in April 2019 at the Melbourne C++ Meetup.
+This repo contains material prepared for a talk delivered in April 2019 at the Melbourne C++ Meetup. I've also written about [parsing mathematical expressions](http://tristanpenman.com/blog/posts/2019/03/31/parsing-mathematical-expressions/) on my blog.
 
 Faced with the problem of implementing a parser for arithmetic expressions, many C++ programmers would start with Flex and Bison. However, in this repo, we see how two alternatives, Ragel and Lemon, can be used to build a parser for simple arithmetic expressions.
 

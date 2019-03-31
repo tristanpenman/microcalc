@@ -1,7 +1,6 @@
 calculator
 calculator.cpp
 calculator.o
-context.h
 parser.c
 parser.h
 parser.o
